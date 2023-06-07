@@ -1,6 +1,5 @@
 import React from 'react';
 import data from './db.json';
-import "../style/showproduct.css"
 
 class Show extends React.Component {
   render() {

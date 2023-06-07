@@ -1,6 +1,4 @@
-import '../style/header.css';
-import Cart from './Cart';
-import Admin from './Admin';
+
 import { Routes,Route} from "react-router-dom";
 import React from 'react';
 
